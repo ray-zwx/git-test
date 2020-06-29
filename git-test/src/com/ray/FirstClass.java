@@ -11,6 +11,8 @@ public class FirstClass {
         System.out.println("hello");
         int i=10;
         int y=12;
+        int x=11;
+
         System.out.println(i);
     }
 }
