@@ -12,6 +12,7 @@ public class FirstClass {
         int i=10;
         int y=12;
         int x=11;
+        int r=123;
 
         System.out.println(i);
     }
