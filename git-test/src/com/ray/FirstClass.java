@@ -13,7 +13,7 @@ public class FirstClass {
         int y=12;
         int x=11;
         int r=123;
-
+        System.out.println(r);
         System.out.println(i);
     }
 }
